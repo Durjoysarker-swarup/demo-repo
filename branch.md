@@ -10,3 +10,11 @@ adding more line againg and make this a better one.
 
 
 Now I am adding something more line in the master because it is the corrected way.
+
+
+#again the conflicts arise what should I do. <br>
+Last try
+
+
+#this is for the branches
+#again adding some more line
