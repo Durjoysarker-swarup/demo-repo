@@ -14,3 +14,6 @@ Now I am adding something more line in the master because it is the corrected wa
 
 #again the conflicts arise what should I do. <br>
 Last try
+
+
+#this is for the branches
