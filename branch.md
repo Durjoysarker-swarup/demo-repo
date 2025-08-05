@@ -15,4 +15,10 @@ Now I am adding something more line in the master because it is the corrected wa
 #again the conflicts arise what should I do. <br>
 Last try
 
+<<<<<<< HEAD
 #is the line add in the middle or what.?
+=======
+
+#this is for the branches
+#again adding some more line
+>>>>>>> 3376b923171f89137d9e0dcd4ac144e1f122fea5
