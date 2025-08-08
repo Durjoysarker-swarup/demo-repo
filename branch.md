@@ -13,6 +13,7 @@ Let's add somthings there
 2. and after reaching the master you pull the marge file and that all for the branching.
 3. then push this to the github and marge the file. I am going to add things also there
 
+
 #now let's do somthings with the undoing the when you accidentally add something.
 1. add this line.
 2. add the 2nd line.
@@ -25,4 +26,9 @@ Let's add somthings there
 #3rd commit
 1. how are you
 2. what are you doing.
+
+#4th commit 
+1. haha
+2. hoho.
+
 
