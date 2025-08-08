@@ -22,3 +22,7 @@ Let's add somthings there
 2. let's do this
 
 
+#3rd commit
+1. how are you
+2. what are you doing.
+
